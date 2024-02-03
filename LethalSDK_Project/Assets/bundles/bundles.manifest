@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 1400472926
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lethalexpansion.lem
+      Dependencies: {}
+    Info_1:
+      Name: rhinestonepass.lem
+      Dependencies:
+        Dependency_0: lethalexpansion.lem

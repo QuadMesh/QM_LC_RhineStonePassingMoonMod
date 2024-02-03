@@ -1,0 +1,511 @@
+ManifestFileVersion: 0
+CRC: 1869888159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc58e5712d7bb277cd1d86847e8c198f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46ce25415c907ff24ed496402b5eba81
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 880151135, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 85075132, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1569631092, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1750259433, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1231276594, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1029476188, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1014499492, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1247577677, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1213317757, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1265089256, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8d0727d5ae3244e3b569694d3912374, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.DungeonFlowPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PlanetPrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.RandomWeatherPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableEnemiesPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableMapObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableOutsideObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableScrapPair
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Mods/RhineStonePass/Moons/decor/Rails/RelKereta/Rel_Kereta.blend
+- Assets/Mods/RhineStonePass/Moons/Material/dry-rocky-ground-unity/NewLayer.terrainlayer
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Grey/Street.Lighting.3_Grey.Street.Lighting.3_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Rails/RelKereta/Rel_Kereta_S.png
+- Assets/Mods/RhineStonePass/Moons/decor/Rails/BongkahanRel.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/K_Building B_09/Materials/Floor 1.mat
+- Assets/Mods/RhineStonePass/Moons/Material/windswept-wasteland-unity/windswept-wasteland_albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Electrical Substation/Textures/T_Electrical_Substation_BaseColor.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Rails/RelKereta/Rel_Kereta_C.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Grey/Street.Lighting.3_Grey.Street.Lighting.3_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  1/Street.Lighting.1.Collider.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/Black_MaskMap.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Grey/Street.Lighting5_Grey.Street.Lighting.5_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/White/Street.Lighting.1_White.Street.Lighting.1_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Materials/Dr14 brakes
+  lights.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Grey/Street.Lighting.1_Grey.Street.Lighting.1_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Grey/Street.Lighting4_Grey.Street.Lighting.4_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/T1/T1_T1-01_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Black/Street.Lighting.3_Black.Street.Lighting.3_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Grey/Street.Lighting.1_Grey.Street.Lighting.1_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/White/Street.Lighting6_White.Street.Lighting.6_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Grey/Street.Lighting.1_Grey.Street.Lighting.1_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Textures/Light.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/White/Street.Lighting.2_White.Street.Lighting.2_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/Material/windswept-wasteland-unity/WindsweptLayer.terrainlayer
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Black/Street.Lighting.1_Black.Street.Lighting.1_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/T1/T1_T1-01_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Grey/Street.Lighting5_Grey.Street.Lighting.5_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Grey/Street.Lighting6_Grey.Street.Lighting.6_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Security_Sign_1.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/White/Street.Lighting4_White.Street.Lighting.4_Height.png
+- Assets/Mods/RhineStonePass/Moons/Material/windswept-wasteland-unity/windswept_wasteland_mask.png
+- Assets/Mods/RhineStonePass/Moons/decor/Rails/RelKereta/Materials/No Name.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/White/Street.Lighting5_White.Street.Lighting.5_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/White/Street.Lighting5_White.Street.Lighting.5_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Camera_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Grey/Street.Lighting6_Grey.Street.Lighting.6_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/Signs_3_1024_Diff.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Black/Street.Lighting5_Black.Street.Lighting.5_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  2/Grey_SL2.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/White/Street.Lighting.3_White.Street.Lighting.3_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Black/Street.Lighting5_Black.Street.Lighting.5_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Prefabs/Street.Lighting2.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  2/White_SL2.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Black/Street.Lighting.3_Black.Street.Lighting.3_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Warning_Electric_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Meshes/Dr14 lights.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Black/Street.Lighting4_Black.Street.Lighting.4_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  2/Street.Lighting.2.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Rails/RelKereta.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/White/Street.Lighting.1_White.Street.Lighting.1_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/Signs_1_1024_Diff.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Black/Street.Lighting.1_Black.Street.Lighting.1_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Electrical Substation/Prefabs/SM_Electrical_Substation.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  2/Grey_MaskMap_SL2.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Grey/Street.Lighting.1_Grey.Street.Lighting.1_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/Grey.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Attention_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Grey/Street.Lighting.3_Grey.Street.Lighting.3_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/T1/T1_T1-01_Metallic.png
+- Assets/Mods/RhineStonePass/ModManifest.asset
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/White/Street.Lighting.1_White.Street.Lighting.1_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Meshes/Industrial
+  Train Dr14.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Bridge_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/Black_HDRP.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/Grey_HDRP.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/White/Street.Lighting6_White.Street.Lighting.6_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/12-6_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  5/Street.Lighting.5.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Black/black_mask.png
+- Assets/Mods/RhineStonePass/Moons/decor/CoolingUnits01/Materials/CoolingUnits01.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Electrical Substation/Materials/M_Electrical_Substation_updated.mat
+- Assets/Mods/RhineStonePass/Moons/decor/T1/T1_A.FBX
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Black/Street.Lighting5_Black.Street.Lighting.5_Normal.png
+- Assets/Mods/RhineStonePass/Moons/Material/windswept-wasteland-unity/windswept-wasteland_normal-ogl.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/White/Street.Lighting.1_White.Street.Lighting.1_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Black/Street.Lighting.3_Black.Street.Lighting.3_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Materials/M_Floor.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/Signs_2_1024_Diff.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Black/Street.Lighting.2_Black.Street.Lighting.2_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/RhineStonePassingMoon.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Black/Street.Lighting4_Black.Street.Lighting.4_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Prefabs/Street.Lighting1.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/T1/T1_T1-01_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/White/Street.Lighting.1_White.Street.Lighting.1_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Maximum_Pole_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/White/Street.Lighting6_White.Street.Lighting.6_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Animations/Left-RightNormSpeed.anim
+- Assets/Mods/RhineStonePass/Moons/decor/Electrical Substation/Textures/T_Electrical_Substation_Normal.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Animations/Industrial
+  Train Dr14.controller
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Safety_Equipment_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Rails/RelKereta/Materials/Rel_Lurus.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/School_Bus_Stop_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Prefabs/Industrial
+  Train Dr14.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Electrical Substation/Textures/T_Electrical_Substation_Roughness.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/White/Street.Lighting.3_White.Street.Lighting.3_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/Signs_2_1024_NRM.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Electric_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/CoolingUnits01/Materials/CoolingUnits01_HDR.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/Black.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Grey/Street.Lighting.1_Grey.Street.Lighting.1_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Black/Street.Lighting6_Black.Street.Lighting.6_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Emergency_Exit_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Black/Street.Lighting.2_Black.Street.Lighting.2_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/K_Building B_09/K_Building B_09.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Grey/Street.Lighting6_Grey.Street.Lighting.6_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Grey/Street.Lighting4_Grey.Street.Lighting.4_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/Material/dry-rocky-ground-unity/dry-rocky-ground_mask.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Grey/Street.Lighting.3_Grey.Street.Lighting.3_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Low_Bridge_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  2/White_MaskMap_SL2.png
+- Assets/Mods/RhineStonePass/Moons/Material/damp-rocky-ground-unity/damp-rock-mask.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Grey/Street.Lighting6_Grey.Street.Lighting.6_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Materials/M_Sign_Atlas_1.mat
+- Assets/Mods/RhineStonePass/Moons/decor/CoolingUnits01/Materials/CoolingUnits01_MaskMap.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/White/Street.Lighting4_White.Street.Lighting.4_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  2/Black_MaskMap_SL2.png
+- Assets/Mods/RhineStonePass/Moons/Material/damp-rocky-ground-unity/DamRockLayer.terrainlayer
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/White/Street.Lighting.2_White.Street.Lighting.2_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  6/Street.Lighting.6.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Black/Street.Lighting.2_Black.Street.Lighting.2_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Grey/Street.Lighting6_Grey.Street.Lighting.6_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  5/Street.Lighting.5.Collider.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  3/Street.Lighting.3.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Prefabs/Street.Lighting6.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Black/Street.Lighting.1_Black.Street.Lighting.1_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/White/Street.Lighting5_White.Street.Lighting.5_Normal.png
+- Assets/Mods/RhineStonePass/Moons/Material/dry-rocky-ground-unity/dry-rock.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Materials/Dr14 headlights_updated.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/Signs_3_1024_NRM.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Grey/Street.Lighting4_Grey.Street.Lighting.4_Normal.png
+- Assets/Mods/RhineStonePass/Moons/Material/damp-rocky-ground-unity/damp-rocky-ground1-Normal-ogl.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Textures/Industrial
+  Train Dr14_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Danger_Keep_Out_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/CoolingUnits01/Textures/CoolingUnits01_DIFF.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Grey/Street.Lighting.3_Grey.Street.Lighting.3_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Black/Street.Lighting6_Black.Street.Lighting.6_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/T1/T1.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Grey/Street.Lighting5_Grey.Street.Lighting.5_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Materials/M_Sign_Atlas_4.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  6/Street.Lighting.6.Collider.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Models/Signs
+  Pack.FBX
+- Assets/Mods/RhineStonePass/Moons/decor/K_Building B_09/fbx/K_Building B_09.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/White/Street.Lighting.3_White.Street.Lighting.3_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Materials/Dr14 brakes
+  lights_updated.mat
+- Assets/Mods/RhineStonePass/Moons/decor/CoolingUnits01/Meshes/CoolingUnits01.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Grey/Street.Lighting.2_Grey.Street.Lighting.2_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Grey/Street.Lighting5_Grey.Street.Lighting.5_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Electrical Substation/Textures/T_Electrical_Substation_Metallic.tga
+- Assets/Mods/RhineStonePass/Moons/Material/damp-rocky-ground-unity/damp-rocky-ground1-albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  4/Street.Lighting.4.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/CoolingUnits01/CoolingUnits01.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Black/Street.Lighting.3_Black.Street.Lighting.3_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Black/Street.Lighting5_Black.Street.Lighting.5_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Grey/Street.Lighting.2_Grey.Street.Lighting.2_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Rails/RelKereta/Materials/Rel_Kereta_C.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/No_Pass_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Grey/Street.Lighting.2_Grey.Street.Lighting.2_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Meshes/Dr14 collision.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Fire_Exit_Symbol_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/Material/damp-rocky-ground-unity/DampRock.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Materials/Dr14 headlights.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/White/Street.Lighting.2_White.Street.Lighting.2_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/T1/T1_MaskMap.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Fire_Exit_Text_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/White_HDRP_On.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Textures/Industrial
+  Train Dr14_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  1/Street.Lighting.1.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/Grey_MaskMap.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Prefabs/Street.Lighting4.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Grey/Street.Lighting.2_Grey.Street.Lighting.2_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Electrical Substation/Meshes/SM_Electrical_Substation.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Grey/Street.Lighting.2_Grey.Street.Lighting.2_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Grey/Street.Lighting4_Grey.Street.Lighting.4_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/Grey_HDRP_MaskMap.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Black/Street.Lighting.2_Black.Street.Lighting.2_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/Material/dry-rocky-ground-unity/dry-rocky-ground_albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  4/Street.Lighting.4.Collider.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/CoolingUnits01/Textures/CoolingUnits01_AO.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/White/Street.Lighting6_White.Street.Lighting.6_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Maximum_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/White_HDRP.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/White/Street.Lighting5_White.Street.Lighting.5_AO.png
+- Assets/Mods/RhineStonePass/Moons/PaxtonPrefabMaterial.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Road_Sign_Pole.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/T1/T1_T1-01_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/White/Street.Lighting4_White.Street.Lighting.4_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/Signs_4_1024_Diff.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Black/Street.Lighting4_Black.Street.Lighting.4_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Grey/Street.Lighting5_Grey.Street.Lighting.5_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Materials/Industrial
+  Train Dr14.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/White/Street.Lighting6_White.Street.Lighting.6_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Materials/M_Sign_Atlas_2.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/No_Parking_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/Material/dry-rocky-ground-unity/dry-rocky-ground_albedo
+  1.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Black/Street.Lighting6_Black.Street.Lighting.6_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Black/Street.Lighting.1_Black.Street.Lighting.1_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Caution_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Electrical Substation/Textures/T_Electrical_Substation_Occlusion.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Prefabs/Street.Lighting5.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/K_Building B_09/Materials/K_BuildingB_09.mat
+- Assets/Mods/RhineStonePass/RhineStone Passassetbank.asset
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Textures/Industrial
+  Train Dr14_MetallicRoughness.png
+- Assets/Mods/RhineStonePass/Moons/decor/K_Building B_09/Textures/K_BuildingB_09.jpg
+- Assets/Mods/RhineStonePass/Moons/Material/dry-rocky-ground-unity/dry-rocky-ground_normal-ogl.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Weight_Limit_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/Paxton.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/Signs_4_1024_NRM.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Black/Street.Lighting4_Black.Street.Lighting.4_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Materials/M_Sign_Atlas_3.mat
+- Assets/Mods/RhineStonePass/Moons/OldSeaPortPlanetPrefabTexture.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Black/Street.Lighting6_Black.Street.Lighting.6_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Materials/M_Wall.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  2/Black_SL2.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/White/Street.Lighting4_White.Street.Lighting.4_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Disabled_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Toxic_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/Black/Street.Lighting.2_Black.Street.Lighting.2_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Grey/Street.Lighting4_Grey.Street.Lighting.4_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  3/Street.Lighting.3.Collider.fbx
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/Black/Street.Lighting4_Black.Street.Lighting.4_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/Black/Street.Lighting.3_Black.Street.Lighting.3_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/White/Street.Lighting.3_White.Street.Lighting.3_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Danger_Volt_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/White/Street.Lighting.2_White.Street.Lighting.2_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Rails/RelKereta/Rel_Kereta_N.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/White/Street.Lighting5_White.Street.Lighting.5_Height.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Prefabs/Street.Lighting3.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Materials/Street Lighting
+  6/light_6_white-mask.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Stop_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/Signs_1_1024_NRM.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  3/White/Street.Lighting.3_White.Street.Lighting.3_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Construction_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  5/Black/Street.Lighting5_Black.Street.Lighting.5_AO.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Prefabs/Hard_Hat_Sign.prefab
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/White_Brick_1024_Diff.jpg
+- Assets/Mods/RhineStonePass/Moons/decor/T1/T1_mat.mat
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Sign Pack/AssetPackage/Textures/Whtie_Brick_1024_NRM.tga
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  6/Black/Street.Lighting6_Black.Street.Lighting.6_Metallic.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  1/Black/Street.Lighting.1_Black.Street.Lighting.1_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  2/White/Street.Lighting.2_White.Street.Lighting.2_Normal.png
+- Assets/Mods/RhineStonePass/Moons/decor/Industrial Train Dr14/Textures/Industrial
+  Train Dr14_Albedo.png
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Textures/Street Lighting
+  4/White/Street.Lighting4_White.Street.Lighting.4_Normal.png
+- Assets/Mods/RhineStonePass/Moons/RhineStonePassing.asset
+- Assets/Mods/RhineStonePass/Moons/decor/Street Lightings/Meshes/Street Lighting
+  2/Street.Lighting.2.Collider.fbx
+Dependencies:
+- C:/Csharp/LethalMods/QM_LC_RhineStonePassingMoonMod/LethalSDK_Project/Assets/bundles/lethalexpansion.lem
