@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1322470948
+CRC: 3542876467
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 535c3152383852e767bbfbc281d658ff
+    Hash: c0c91b5abc2be4c365b25e3103bdd22b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f2ae16babe018c2707d5498445cbc348
+    Hash: 1e751c94ae2b8e5e18ddb11c71392261
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,6 +36,8 @@ ClassTypes:
 - Class: 82
   Script: {instanceID: 0}
 - Class: 83
+  Script: {instanceID: 0}
+- Class: 89
   Script: {instanceID: 0}
 - Class: 91
   Script: {instanceID: 0}
@@ -324,7 +326,7 @@ Assets:
 - Assets/Mods/LethalExpansion/ItemShip/BlackCord_1.mat
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_20.asset
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_14.asset
-- Assets/Mods/LethalExpansion/Prefabs/entranceteleport.prefab
+- Assets/Mods/LethalExpansion/Prefabs/entranceteleportinstancer.prefab
 - Assets/Mods/LethalExpansion/Prefabs/Water.prefab
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_62.asset
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_47.asset
@@ -398,7 +400,7 @@ Assets:
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_25.asset
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_78.asset
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_37.asset
-- Assets/Mods/LethalExpansion/Prefabs/entranceteleportinstancer.prefab
+- Assets/Mods/LethalExpansion/Prefabs/entranceteleport.prefab
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_46.asset
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_34.asset
 - Assets/Mods/LethalExpansion/ItemShip/Material.002.mat
@@ -477,4 +479,5 @@ Assets:
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_48.asset
 - Assets/Mods/LethalExpansion/ItemShip/Flame03-hollow_16x4_70.asset
 - Assets/Mods/LethalExpansion/ItemShip/glasscracked.png
-Dependencies: []
+Dependencies:
+- C:/Csharp/LethalMods/QM_LC_RhineStonePassingMoonMod/LethalSDK_Project/Assets/bundles/rhinestone/oldseaport.lem
